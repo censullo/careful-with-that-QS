@@ -18,7 +18,7 @@ You can then start SSH sessions onto those nodes by using the â€œStart Sessionâ€
 image::../images/ssh.png[SSH,width=648,height=439]
 
 // == Security
-// Provide post-deployment best practices for using the technology on AWS, including considerations such as migrating data, backups, ensuring high performance, high availability, etc. Link to software documentation for detailed information.
+// Provide post-deployment best practices for using the technology on AWS, including considerations such as migrating data, backups, ensuring high performance, and high availability. Link to software documentation for detailed information.
 
 // _Add any security-related information._
 
